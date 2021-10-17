@@ -1,0 +1,1 @@
+from .sub_models.profile import Profile # or from .models.profile import *

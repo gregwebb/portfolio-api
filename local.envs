@@ -1,0 +1,3 @@
+POSTGRES_USER=howard
+POSTGRES_PASSWORD=theowner559!
+POSTGRES_DB=casinodb
